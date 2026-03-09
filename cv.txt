@@ -1,0 +1,128 @@
+=== INFORMATIONS PERSONNELLES ===
+Nom : Lacaux Stéphane
+Poste recherché :
+Email : lascauxstephane@gmail.com
+LinkedIn : linkedin.com/in/stephane lascaux
+GitHub : github.com/jean-dupont
+Localisation : Metz, France (ouvert au remote)
+
+=== RÉSUMÉ PROFESSIONNEL ===
+
+
+Professionnel du Food & Retail depuis plus de 20 ans, j'ai évolué de la distribution alimentaire à la direction d'établissements de restauration, développant une expertise complète des enjeux clients, opérationnels et commerciaux du secteur. Animé par la conviction que la donnée est un levier de croissance essentiel — conviction forgée par mes résultats terrain (+19% de clients, +11% de panier moyen, +8% de CA) — j'ai complété mon parcours par une certification en Data Analyse (École des Mines Paris - Python, SQL, Power BI) pour aller encore plus loin dans l'analyse et la prise de décision. Trilingue (français, allemand, anglais) avec une expérience internationale, je mets aujourd'hui cette double expertise Food Retail & Data au service de projets ambitieux.
+
+=== RÉALISATIONS CLÉS ===
+
+- +19% de croissance clients et +11% de panier moyen chez Auchandrive.lu via segmentation data-driven
+- +8% de CA (1,6M€) chez Les Mazes grâce à des stratégies commerciales ciblées
+- +10% de CA chez Salana suite à la digitalisation complète de l'activité
+- Création du premier concept Drive au Luxembourg de zéro (logistique, recrutement, KPIs)
+- Gestion de P&L jusqu'à 3M€ avec équipes jusqu'à 40 personnes
+
+=== EXPÉRIENCES PROFESSIONNELLES ===
+
+Directeur d'Établissement | Les Mazes Sarl | Metz, France
+11/2021 – 06/2023
+
+- Augmentation de +8% du CA (1,6M€) grâce à des stratégies commerciales locales ciblées
+- Management d'une équipe de 23 personnes : recrutement, formation et suivi de performance
+- Gestion complète du centre de profit : budget prévisionnel, RH, stocks et finances
+- Optimisation des processus opérationnels pour améliorer l'efficience et réduire les coûts
+
+
+Directeur d'Établissement | VAP Lux | Luxembourg
+02/2020 – 10/2021
+
+- Gestion d'un centre de profit de 3M€ avec une équipe de 40 personnes
+- Réorganisation complète de la gestion des stocks et des commandes
+- Recrutement, développement et fidélisation des talents
+- Coordination RH, finance et opérations pour atteindre les objectifs business
+
+
+Chef d'Entreprise | Salana | Luxembourg
+01/2017 – 12/2019
+
+- Augmentation de +10% du CA grâce à la digitalisation complète de l'activité (site web, réseaux sociaux, communication digitale)
+- Reprise de fonds de commerce : élaboration du business plan et stratégie de croissance
+- Gestion opérationnelle complète : RH, comptabilité, fournisseurs, stocks et événements
+- Négociation fournisseurs et optimisation des marges
+
+
+Responsable CRM & Marketing | Auchandrive.lu | Munsbach, Luxembourg
+09/2014 – 12/2016
+
+- +15% de clients en 2014 et +19% en 2015 via segmentation avancée et ciblage personnalisé
+- +11% de panier moyen grâce à l'analyse géographique et démographique des clients
+- Membre du CODIR : reporting clients, gestion base de données, décisions stratégiques
+- Stratégie marketing digital complète et gestion de projet site web
+- Mise en place de l'automatisation de l'entonnoir de ventes
+
+Manager Drive | Chrystal SA Auchandrive.lu | Munsbach, Luxembourg
+10/2010 – 08/2014
+
+- Lancement du premier concept Drive au Luxembourg de zéro
+- Création et mise en place de la logistique opérationnelle complète (réception à livraison client)
+- Mise en place de la logistique d'entrepôt du Drive de Munsbach
+- Organisation de la campagne de recrutement des opérateurs logistiques
+- Établissement des KPIs logistiques et systèmes de reporting
+- Membre du CODIR : participation aux décisions stratégiques
+
+Responsable Magasin | ALDI | Bourbonne-les-Bains, France
+01/2005 – 12/2009
+
+- Gestion du premier magasin de la centrale de Beaune (6M€ de CA)
+- Management d'équipe et excellence opérationnelle quotidienne
+- Satisfaction client et performance commerciale constante
+
+
+=== COMPÉTENCES ===
+Management & Leadership
+Gestion P&L | Management d'équipes | Planification stratégique | Conduite du changement | Gestion budgétaire
+
+Opérations & Logistique
+Supply Chain | Gestion des stocks | Optimisation des processus | WMS DLX | KPIs | Amélioration continue
+
+Data & Analytique
+Python | SQL | Power BI | Modélisation prédictive | Segmentation clients | Google Analytics | Reporting
+
+CRM & Marketing
+CRM Atos | Marketing digital | Automatisation marketing | E-commerce | Stratégie omnicanale
+
+
+=== FORMATION & CERTIFICATIONS ===
+Certification Data Analyse – RNCP Niveau 6
+Datascientest en partenariat avec l'École des Mines Paris
+11/2023 – 11/2024
+
+Compétences : Python, SQL, Power BI, Machine Learning, Modélisation prédictive, Visualisation de données
+Projet final : Modèle prédictif du succès d'une campagne marketing bancaire
+
+───────────────────────────────────────────────────────────
+
+Master Gestion d'Entreprise, Logistique & Marketing
+Fachhochschule Merseburg, Allemagne
+2000 – 2004
+
+───────────────────────────────────────────────────────────
+
+DUT Gestion Logistique et Transport
+IUT Sarreguemines, France
+1998 – 2000
+
+
+=== PROJETS PERSONNELS DATA===
+- Portfolio interactif avec chatbot IA 
+- Modèle prédictif du succès d'une campagne marketing bancaire
+
+
+=== LANGUES ===
+Français : Natif
+Allemand : Courant (C1)
+Anglais : Intermédiaire (B2)
+
+=== INFORMATIONS COMPLÉMENTAIRES ===
+Disponibilité : 15 jours
+Type de contrat : CDI
+Prétentions salariales : 45 000 - 60 000 € brut/an selon le poste
+Mobilité :Nancy, Paris et région parisienne, remote full possible
+Centres d'intérêt : economie, tech, badminton, natation
