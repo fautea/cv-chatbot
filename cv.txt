@@ -21,6 +21,8 @@ Professionnel du Food & Retail depuis plus de 20 ans, j'ai évolué de la distri
 
 === EXPÉRIENCES PROFESSIONNELLES ===
 
+Depuis juin 2024 j'exerce une activité au sein du groupe Carrefour, elle n'apparait pas sur mon CV car elle n'est pas en adéquation avec mes compétences et expériences professionnelles
+
 Directeur d'Établissement | Les Mazes Sarl | Metz, France
 11/2021 – 06/2023
 
@@ -96,6 +98,7 @@ Datascientest en partenariat avec l'École des Mines Paris
 
 Compétences : Python, SQL, Power BI, Machine Learning, Modélisation prédictive, Visualisation de données
 Projet final : Modèle prédictif du succès d'une campagne marketing bancaire
+Projet personnel: création d'un agent IA cv-chatbot (Installation de Python, Git, Création du backend FastAPI, Interface web moderne, Clé API Anthropic, Déploiement sur Render)
 
 ───────────────────────────────────────────────────────────
 
