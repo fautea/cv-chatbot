@@ -13,11 +13,11 @@
       --surface: #17171c;
       --surface2: #1f1f27;
       --border: #2e2e3a;
-      --accent: #c8a96e;
-      --accent2: #e8c98e;
+      --accent: #2980b9;
+      --accent2: #3498db;
       --text: #f0ede8;
       --text-muted: #7a7a8a;
-      --user-bubble: #1e2a3a;
+      --user-bubble: #1a2a3f;
       --bot-bubble: #1a1a22;
       --radius: 16px;
     }
@@ -367,7 +367,7 @@
 
 <header>
   <div class="header-left">
-    <div class="avatar">CV</div>
+    <img src="/static/photo.jpg" class="avatar" style="object-fit:cover;" alt="photo">
     <div class="header-info">
       <h1>Mon Assistant CV</h1>
       <p>Posez vos questions</p>
@@ -465,7 +465,7 @@
     typing.className = 'message bot';
     typing.id = 'typing-indicator';
     typing.innerHTML = `
-      <div class="msg-avatar bot-av">CV</div>
+      <img src="/static/photo.jpg" class<img src="/static/photo.jpg" class="msg-avatar bot-av" style="object-fit:cover;" alt="photo">
       <div class="bubble">
         <div class="typing">
           <div class="dot"></div>
